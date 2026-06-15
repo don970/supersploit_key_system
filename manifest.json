@@ -12,11 +12,12 @@
             "tier": "Enterprise"
         },
         "TEST-0000-0000": {
-            "hwid": null,
-            "status": "pending",
+            "hwid": "BB5E4C61A070227D",
+            "status": "active",
             "tier": "Enterprise",
             "created": "2026-06-15",
-            "expires": null
+            "expires": null,
+            "registered": "2026-06-15"
         }
     },
     "policy": {

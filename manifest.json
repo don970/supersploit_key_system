@@ -18,6 +18,12 @@
             "created": "2026-06-15",
             "expires": null,
             "registered": "2026-06-15"
+        },
+        "ANDROID-SYNC-TEST-KEY": {
+            "hwid": null,
+            "status": "pending",
+            "tier": "Individual",
+            "created": "2026-06-15"
         }
     },
     "policy": {

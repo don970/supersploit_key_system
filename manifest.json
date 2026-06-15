@@ -1,15 +1,26 @@
 {
-    "policy": {
-        "version": "5.0",
-        "global_killswitch": false,
-        "maintenance_mode": false
-    },
     "keys": {
         "SUPERSPLOIT-DEV-MASTER-2026-X99": {
             "hwid": "BB5E4C61A070227D",
+            "registered": "2026-06-14",
             "status": "active",
+            "tier": "Enterprise"
+        },
+        "ACBC330C4C91F7282552B00D": {
+            "created": "2026-06-15",
+            "status": "pending",
+            "tier": "Enterprise"
+        },
+        "TEST-0000-0000": {
+            "hwid": null,
+            "status": "pending",
             "tier": "Enterprise",
-            "registered": "2026-06-14"
+            "created": "2026-06-15",
+            "expires": null
         }
+    },
+    "policy": {
+        "global_killswitch": false,
+        "version": "5.0"
     }
 }

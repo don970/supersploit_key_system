@@ -10,36 +10,6 @@
             "status": "active",
             "tier": "Enterprise",
             "registered": "2026-06-14"
-        },
-        "TEST-KEY-2026-BETA": {
-            "hwid": "B5366CD2D70E6DEF",
-            "status": "revoked",
-            "tier": "redteam",
-            "created": "2026-06-15",
-            "expires": null,
-            "registered": "2026-06-15"
-        },
-        "FULL-KEY-ONE-DEBUG": {
-            "hwid": "BB5E4C61A070227D",
-            "status": "active",
-            "tier": "Enterprise",
-            "created": "2026-06-15",
-            "expires": null,
-            "registered": "2026-06-15"
-        },
-        "LEAKED-BETA-KEY-001": {
-            "hwid": null,
-            "status": "revoked",
-            "tier": "Individual",
-            "created": "2026-06-15",
-            "expires": null
-        },
-        "TEST-REVOKED-KEY": {
-            "hwid": null,
-            "status": "revoked",
-            "tier": "Individual",
-            "created": "2026-06-15",
-            "expires": null
         }
     }
 }

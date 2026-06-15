@@ -1,10 +1,7 @@
 {
-  "revoked_keys": [
-    "TEST-KEY-2026-BETA",
-  ],
+  "revoked_keys": [],
   "master_keys": [
-    "SUPERSPLOIT-DEV-MASTER-2026-X99",
-    "FULL-KEY-ONE-DEBUG"
+    "SUPERSPLOIT-DEV-MASTER-2026-X99"
   ],
   "announcements": {
     "version": "5.0",

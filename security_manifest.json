@@ -1,6 +1,8 @@
 {
   "revoked_keys": [
-    "TEST-KEY-2026-BETA"
+    "TEST-KEY-2026-BETA",
+    "LEAKED-BETA-KEY-001",
+    "TEST-REVOKED-KEY"
   ],
   "master_keys": [
     "SUPERSPLOIT-DEV-MASTER-2026-X99",

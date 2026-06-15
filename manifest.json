@@ -26,6 +26,20 @@
             "created": "2026-06-15",
             "expires": null,
             "registered": "2026-06-15"
+        },
+        "LEAKED-BETA-KEY-001": {
+            "hwid": null,
+            "status": "revoked",
+            "tier": "Individual",
+            "created": "2026-06-15",
+            "expires": null
+        },
+        "TEST-REVOKED-KEY": {
+            "hwid": null,
+            "status": "revoked",
+            "tier": "Individual",
+            "created": "2026-06-15",
+            "expires": null
         }
     }
 }

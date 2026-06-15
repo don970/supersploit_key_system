@@ -1,1 +1,10 @@
-{"revoked_keys":["ACBC330C4C91F7282552B00D","ANDROID-SYNC-TEST-KEY"],"master_keys":["SUPERSPLOIT-DEV-MASTER-2026-X99","ACBC330C4C91F7282552B00D","TEST-0000-0000"],"announcements":{"version":"5.0","message":"SuperSploit Pro Remote Security Engine is ACTIVE."}}
+{
+  "revoked_keys": [],
+  "master_keys": [
+    "SUPERSPLOIT-DEV-MASTER-2026-X99"
+  ],
+  "announcements": {
+    "version": "5.0",
+    "message": "SuperSploit Pro Remote Security Engine is ACTIVE."
+  }
+}

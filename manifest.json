@@ -1,31 +1,15 @@
 {
-  "keys": {
-    "SUPERSPLOIT-DEV-MASTER-2026-X99": {
-      "hwid": "BB5E4C61A070227D",
-      "registered": "2026-06-14",
-      "status": "active",
-      "tier": "Enterprise"
+    "policy": {
+        "version": "5.0",
+        "global_killswitch": false,
+        "maintenance_mode": false
     },
-    "ACBC330C4C91F7282552B00D": {
-      "created": "2026-06-15",
-      "status": "revoked",
-      "tier": "Enterprise"
-    },
-    "TEST-0000-0000": {
-      "created": "2026-06-15",
-      "hwid": "BB5E4C61A070227D",
-      "registered": "2026-06-15",
-      "status": "active",
-      "tier": "Enterprise"
-    },
-    "ANDROID-SYNC-TEST-KEY": {
-      "created": "2026-06-15",
-      "status": "revoked",
-      "tier": "Individual"
+    "keys": {
+        "SUPERSPLOIT-DEV-MASTER-2026-X99": {
+            "hwid": "BB5E4C61A070227D",
+            "status": "active",
+            "tier": "Enterprise",
+            "registered": "2026-06-14"
+        }
     }
-  },
-  "policy": {
-    "global_killswitch": false,
-    "version": "5.0"
-  }
 }

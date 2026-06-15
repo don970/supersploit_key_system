@@ -1,13 +1,13 @@
 {
   "revoked_keys": [
-    "LEAKED-BETA-KEY-001",
-    "TEST-REVOKED-KEY"
+    "TEST-KEY-2026-BETA"
   ],
   "master_keys": [
-    "SUPERSPLOIT-DEV-MASTER-2026-X99"
+    "SUPERSPLOIT-DEV-MASTER-2026-X99",
+    "FULL-KEY-ONE-DEBUG"
   ],
   "announcements": {
-    "version": "1.0.0",
+    "version": "5.0",
     "message": "SuperSploit Pro Remote Security Engine is ACTIVE."
   }
 }

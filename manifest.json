@@ -1,0 +1,31 @@
+{
+    "policy": {
+        "version": "5.0",
+        "global_killswitch": false,
+        "maintenance_mode": false
+    },
+    "keys": {
+        "SUPERSPLOIT-DEV-MASTER-2026-X99": {
+            "hwid": "BB5E4C61A070227D",
+            "status": "active",
+            "tier": "Enterprise",
+            "registered": "2026-06-14"
+        },
+        "TEST-KEY-2026-BETA": {
+            "hwid": "B5366CD2D70E6DEF",
+            "status": "revoked",
+            "tier": "redteam",
+            "created": "2026-06-15",
+            "expires": null,
+            "registered": "2026-06-15"
+        },
+        "FULL-KEY-ONE-DEBUG": {
+            "hwid": "BB5E4C61A070227D",
+            "status": "active",
+            "tier": "Enterprise",
+            "created": "2026-06-15",
+            "expires": null,
+            "registered": "2026-06-15"
+        }
+    }
+}

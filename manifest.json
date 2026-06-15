@@ -1,33 +1,31 @@
 {
-    "keys": {
-        "SUPERSPLOIT-DEV-MASTER-2026-X99": {
-            "hwid": "BB5E4C61A070227D",
-            "registered": "2026-06-14",
-            "status": "active",
-            "tier": "Enterprise"
-        },
-        "ACBC330C4C91F7282552B00D": {
-            "created": "2026-06-15",
-            "status": "pending",
-            "tier": "Enterprise"
-        },
-        "TEST-0000-0000": {
-            "hwid": "BB5E4C61A070227D",
-            "status": "active",
-            "tier": "Enterprise",
-            "created": "2026-06-15",
-            "expires": null,
-            "registered": "2026-06-15"
-        },
-        "ANDROID-SYNC-TEST-KEY": {
-            "hwid": null,
-            "status": "pending",
-            "tier": "Individual",
-            "created": "2026-06-15"
-        }
+  "keys": {
+    "SUPERSPLOIT-DEV-MASTER-2026-X99": {
+      "hwid": "BB5E4C61A070227D",
+      "registered": "2026-06-14",
+      "status": "active",
+      "tier": "Enterprise"
     },
-    "policy": {
-        "global_killswitch": false,
-        "version": "5.0"
+    "ACBC330C4C91F7282552B00D": {
+      "created": "2026-06-15",
+      "status": "pending",
+      "tier": "Enterprise"
+    },
+    "TEST-0000-0000": {
+      "created": "2026-06-15",
+      "hwid": "BB5E4C61A070227D",
+      "registered": "2026-06-15",
+      "status": "active",
+      "tier": "Enterprise"
+    },
+    "ANDROID-SYNC-TEST-KEY": {
+      "created": "2026-06-15",
+      "status": "revoked",
+      "tier": "Individual"
     }
+  },
+  "policy": {
+    "global_killswitch": false,
+    "version": "5.0"
+  }
 }
